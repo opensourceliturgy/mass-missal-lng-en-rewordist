@@ -1,7 +1,5 @@
 
 
-<?php $sm->t("The Creed"); ?>
-
 
 <p>Together, let us proclaim our faith.</p>
 
